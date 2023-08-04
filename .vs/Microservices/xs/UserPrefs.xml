@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{39E748C1-0F69-4B19-B970-639CC931DEBF}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Src/Catalog.Services/Program.cs">
+    <Files>
+      <File FileName="Src/Catalog.Services/Controllers/ItemController.cs" Line="24" Column="25" />
+      <File FileName="Src/Catalog.Services/Dtos/Dtos.cs" Line="3" Column="26" />
+      <File FileName="Src/Catalog.Services/Program.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Microservices" expanded="True">
+            <Node name="Catalog.Services" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dtos" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Catalog.Services PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>
