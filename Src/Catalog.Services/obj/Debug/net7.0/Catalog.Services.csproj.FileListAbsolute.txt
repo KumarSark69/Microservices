@@ -31,3 +31,16 @@
 /Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/obj/Debug/net7.0/Catalog.Services.pdb
 /Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/obj/Debug/net7.0/Catalog.Services.genruntimeconfig.cache
 /Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/obj/Debug/net7.0/ref/Catalog.Services.dll
+/Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/bin/Debug/net7.0/DnsClient.dll
+/Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/bin/Debug/net7.0/SharpCompress.dll
+/Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/bin/Debug/net7.0/Snappier.dll
+/Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/bin/Debug/net7.0/ZstdSharp.dll
+/Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/anilkumar/AnilProject/Microservices/Src/Catalog.Services/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
